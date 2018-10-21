@@ -19,7 +19,7 @@ By default Kubuntu comes with a great package manager called Discover. Discover 
 
 Discover might provide information about required dependencies, these are other packages (programs) that the piece of software that you want to install needs to run. Once this information is acknowledged, the required packages will begin downloading. When the installation process is complete, the software will be ready to use. It is rarely necessary to restart the system after software installation or updates. If it is, the system will warn you and give you a restart icon to do the restart at your convenience.
 
-Discover also provides an easy method to remove software that is no longer needed. 
+Discover also provides an easy method to remove software that is no longer needed. Discover can install Ubuntu packages from the repositories but also snaps as well.
 
 +--------------------------------------------------------------------------+
 |                           Tip:                                           |

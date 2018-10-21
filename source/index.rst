@@ -19,7 +19,6 @@ Contents:
    docs/advanced
    docs/repositories
    docs/software
-   docs/packages
    docs/contribute
    docs/support
    docs/packaging_guide/packaging
