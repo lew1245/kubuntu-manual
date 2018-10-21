@@ -6,6 +6,9 @@ Following this: https://community.kde.org/Policies/Licensing_Policy
 
 ![](https://travis-ci.org/kubuntu-team/kubuntu-manual.svg?branch=master)
 
+- Kubuntu 19.04 Status : Open for MR(s)
+- Kubuntu 19.04 Release: TBA
+
 ## How it works
 
 The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/).
