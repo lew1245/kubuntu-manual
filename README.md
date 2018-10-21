@@ -6,16 +6,6 @@ Following this: https://community.kde.org/Policies/Licensing_Policy
 
 ![](https://travis-ci.org/kubuntu-team/kubuntu-manual.svg?branch=master)
 
-- 18.04 STATUS: Open for MR(s)
-
-18.04.1 - Release date on 07.26.18
-
-## To Do list
-
-- [ ] Prepare for 18.04.1 Release.
-- [X] Clean up images for older releases into folders.
-- [X] Add Driver Manager section.
-
 ## How it works
 
 The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/).
