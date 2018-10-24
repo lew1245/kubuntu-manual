@@ -118,7 +118,7 @@ Your newly installed Kubuntu system has some utilities already installed. One of
 Bash
 ~~~~~
 
-Bash is the default shell in Konsole and the terminals. Click for more on `using the Terminal <https://help.ubuntu.com/community/UsingTheTerminal>`_. 
+Bash is the default shell in Konsole and other terminal applications. Click for more on `using the Terminal <https://help.ubuntu.com/community/UsingTheTerminal>`_. 
 
 Firewall configuration
 -----------------------

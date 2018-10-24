@@ -13,10 +13,10 @@ You can use the Discover to add new repositories.
 
 **How-to**: Start Discover. Select Settings, click on the hamburger menu next to 'Ubuntu (Default). Enter your administrative password at the prompt. Left-click the 'Other Software' tab. Left-click the 'Add...' button. Enter the repository address into the text box. The proper format is required, and looks similar to this: ppa:kubuntu-ppa/backports Left-click the 'OK' button to add the repository. Left-click the 'Close' button. A prompt will appear to update the package list. Discover will now be allowed to find the newly available software. 
 
-.. image:: ../images/bionic/discover-repositories.png
+.. image:: ../images/cosmic/discover-repositories-cc.png
     :align: center
     :scale: 50 %
-.. image:: ../images/bionic/discover-software-sources.png
+.. image:: ../images/cosmic/discover-software-sources-cc.png
     :align: center
 .. image:: ../images/bionic/software-sources-add.png
     :align: center
