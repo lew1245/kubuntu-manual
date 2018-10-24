@@ -14,7 +14,7 @@ Some basic graphics applications are installed in Kubuntu by default, allowing y
 - `LibreOffice Draw <http://www.libreoffice.org/discover/draw/>`_ is an all-purpose diagramming and charting tool which lets you produce anything from a quick sketch to a complex plan, and gives you the means to communicate with graphics and diagrams. With a maximum page size of 300cm by 300cm, Draw is a an excellent package for producing technical drawings, general posters, and much else. 
 - `Skanlite <https://userbase.kde.org/Special:MyLanguage/Skanlite>`_ is a simple image scanning application. 
 - `Gwenview <https://userbase.kde.org/Special:MyLanguage/Gwenview>`_ is an image viewer with many features. 
-- `Spectacle <https://www.kde.org/applications/graphics/spectacle/>`_ is the best at desktop screenshots, simple and sweet. 
+- `Spectacle <https://www.kde.org/applications/graphics/spectacle/>`_ is the best at desktop screenshots, simple and feature full. 
 
 Internet
 ---------
@@ -33,7 +33,10 @@ To export your bookmarks from Firefox
 2. Select Show All Bookmarks or Ctrl+Shirt+o
 3. A new window will appear. Select Import and Backup
 
-> Tip: Note where you save your bookmarks (by default in ~/yourfoldername)
++--------------------------------------------------------------------------+
+|                          Tip:                                            |
+|  - Note where you save your bookmarks (by default in ~/yourfoldername)   |
++--------------------------------------------------------------------------+
 
 Import your bookmarks into Firefox
 ```````````````````````````````````
@@ -66,21 +69,20 @@ The best in multimedia is installed when you open your new Kubuntu installation.
 
 The following applications are installed by default: 
 
-- `Pulseaudio <https://wiki.ubuntu.com/PulseAudio>`_ keeps all your sound and video inputs and outputs working together. If you need to direct your audio or video output to other devices, install the pavucontrol package, launch it by pressing Alt + F2, then type pavucontrol. 
+- `PulseAudio <https://wiki.ubuntu.com/PulseAudio>`_ keeps all your sound and video inputs and outputs working together. If you need to direct your audio or video output to other devices, install the pavucontrol package, launch it by pressing Alt + F2, then type pavucontrol. 
 - `K3b <https://userbase.kde.org/Special:MyLanguage/K3b>`_ is a simple, powerful and highly-configurable graphical optical disk burning application for audio, video, data projects. 
-- `Kmix <https://userbase.kde.org/Special:MyLanguage/KMix>`_ controls all your audio channels. 
+- `KMix <https://userbase.kde.org/Special:MyLanguage/KMix>`_ controls all your audio channels. 
 - `VLC <https://https://www.videolan.org/vlc/index.html>`_ has a simple interface for playing your movies, TV shows, and music. 
-- Placeholder for Music Player.
 
 Office
 -------
 
 The default office suite installed in Kubuntu is LibreOffice. It includes Calc, Draw, Impress, Math, Base and Writer. This suite is the open source equivalent of the Microsoft Office suite and each application corresponds to a similar product in that line. 
 
-- Calc = Excel
-- Writer = Word
-- Impress = PowerPoint
-- Base = Access
+- `Calc <https://www.libreoffice.org/discover/calc/>`_ = Excel
+- `Writer <https://www.libreoffice.org/discover/writer/>`_ = Word
+- `Impress <https://www.libreoffice.org/discover/impress/>`_ = PowerPoint
+- `Base <https://www.libreoffice.org/discover/base/>`_ = Access
 
 LibreOffice works well with the files created by their Microsoft counterparts, with the exception of Microsoft Access files. For more information see `LibreOffice <https://wiki.ubuntu.com/LibreOffice>`_. 
 
@@ -111,7 +113,7 @@ Your newly installed Kubuntu system has some utilities already installed. One of
 - `Kate <https://userbase.kde.org/Special:MyLanguage/Kate>`_ is the default text editor for KDE. It has many great features for editing plain text or writing code in many different languages. 
 - `Ark <https://userbase.kde.org/Special:MyLanguage/Ark>`_ is the default tool for handling archives of files such as tar, gzip, bzip2, zip, rar and 7z. 
 - `Klipper <https://userbase.kde.org/Special:MyLanguage/Klipper>`_ is a clipboard to hold copied text for later use. Unlike other clipboards it will hold your entire copied text, rather than just one line. 
-- `Knotes <https://userbase.kde.org/Special:MyLanguage/KNotes>`_ is a sticky-note application to post notes on your desktop. 
+- `KNotes <https://userbase.kde.org/Special:MyLanguage/KNotes>`_ is a sticky-note application to post notes on your desktop. 
 - `KCalc <https://userbase.kde.org/Special:MyLanguage/KCalc>`_ offers basic calculator functions and much more. 
 - `Konsole <https://userbase.kde.org/Special:MyLanguage/Konsole>`_ is the KDE terminal emulator, it can be used to run console shells. 
 
