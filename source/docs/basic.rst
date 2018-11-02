@@ -25,8 +25,8 @@ Application Dashboard
     :scale: 50 %
     :align: center
 
-Taken from the old Plasma Netbook interface we have the Application Dashboard menu for users with smaller screens ie. Netbooks or small laptops. 
-    
+Taken from the old Plasma Netbook interface we have the Application Dashboard menu for users with smaller screens such as Netbooks or small laptops. 
+
 KRunner
 ~~~~~~~~
 
@@ -34,7 +34,7 @@ KRunner
    :align: center
    :target: https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner
 
-Like Kickoff, KRunner is a launcher, but it does a lot more than just launching applications. Usually KRunner is accessed by pressing Alt + Space. For more information on what it can do, see `Plasma Krunner <https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner>`_.
+Like Kickoff, KRunner is a launcher, but it does a lot more than just launching applications. KRunner can be accessed by pressing Alt + Space. For more information on what it can do, see `Plasma Krunner <https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner>`_.
 
 Networking
 -----------
@@ -63,7 +63,7 @@ KDE-Look is the number one location to find customized settings for the *KDE* Pl
 Themes
 ~~~~~~~
 
-Kubuntu allows themes to be changed easily. To change your theme go to System Settings -> Workspace Theme in the Desktop Theme section, then choose from the list of installed themes. You can change the theme of the Desktop Theme, Cursor Theme, and the Splash Screen. Pick from the default choices that are installed, or left-click the 'Get New...' button in each section for more choices. 
+Kubuntu allows themes to be changed easily. To change your theme go to 'System Settings' -> Workspace Theme in the Desktop Theme section, then choose from the list of installed themes. You can change the theme of the Desktop Theme, Cursor Theme, and the Splash Screen. Pick from the default choices that are installed, or left-click the 'Get New...' button in each section for more choices. 
 
 Plasmoids
 ~~~~~~~~~~
