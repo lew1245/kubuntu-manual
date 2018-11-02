@@ -113,7 +113,7 @@ Your newly installed Kubuntu system has some utilities already installed. One of
 - `Kate <https://userbase.kde.org/Special:MyLanguage/Kate>`_ is the default text editor for KDE. It has many great features for editing plain text or writing code in many different languages. 
 - `Ark <https://userbase.kde.org/Special:MyLanguage/Ark>`_ is the default tool for handling archives of files such as tar, gzip, bzip2, zip, rar and 7z. 
 - `Klipper <https://userbase.kde.org/Special:MyLanguage/Klipper>`_ is a clipboard to hold copied text for later use. Unlike other clipboards it will hold your entire copied text, rather than just one line. 
-- `Knotes <https://userbase.kde.org/Special:MyLanguage/KNotes>`_ is a sticky-note application to post notes on your desktop. 
+- `KNotes <https://userbase.kde.org/Special:MyLanguage/KNotes>`_ is a sticky-note application to post notes on your desktop. 
 - `KCalc <https://userbase.kde.org/Special:MyLanguage/KCalc>`_ offers basic calculator functions and much more. 
 - `Konsole <https://userbase.kde.org/Special:MyLanguage/Konsole>`_ is the KDE terminal emulator, it can be used to run console shells. 
 
