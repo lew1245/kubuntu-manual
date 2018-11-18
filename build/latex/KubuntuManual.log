@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.7.26)  29 JUL 2018 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.23)  17 NOV 2018 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -151,7 +151,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \c@AlphaCnt=\count103
 \c@AlphaDecCnt=\count104
 ) (./sphinx.sty
-Package: sphinx 2018/03/11 v1.7.2 LaTeX package (Sphinx markup)
+Package: sphinx 2018/07/18 v1.7.7 LaTeX package (Sphinx markup)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
@@ -488,12 +488,7 @@ Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-(/usr/share/texlive/texmf-dist/tex/latex/carlisle/remreset.sty
-
-Package remreset Warning: The remreset package is obsolete:
-(remreset)                \@removefomresset is defined.
-
-) (./sphinxhighlight.sty
+(./sphinxhighlight.sty
 Package: sphinxhighlight 2016/05/29 stylesheet for highlighting with pygments
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
@@ -843,107 +838,93 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
 
 ]
 Chapter 1.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\sphinxstyleemphasis' on input line 75.
-
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 75.
-<kubuntu-18-04_desktop.png, id=301, 1445.4pt x 813.0375pt>
+<18-10_Desktop.png, id=286, 1445.4pt x 813.0375pt>
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 77.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-File: kubuntu-18-04_desktop.png Graphic file (type png)
-<use kubuntu-18-04_desktop.png>
-Package pdftex.def Info: kubuntu-18-04_desktop.png  used on input line 77.
+File: 18-10_Desktop.png Graphic file (type png)
+<use 18-10_Desktop.png>
+Package pdftex.def Info: 18-10_Desktop.png  used on input line 77.
 (pdftex.def)             Requested size: 469.75502pt x 264.23405pt.
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\sphinxstyleemphasis' on input line 102.
-
-[3 <./kubuntu-18-04_desktop.png (PNG copy)>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\sphinxstyleemphasis' on input line 124.
-
-[4]
+) [3 <./18-10_Desktop.png (PNG copy)>] [4]
 Chapter 2.
 [5
 
 ]
-<etcher.png, id=328, 700.11563pt x 384.6872pt>
+<etcher.png, id=312, 700.11563pt x 384.6872pt>
 File: etcher.png Graphic file (type png)
 <use etcher.png>
 Package pdftex.def Info: etcher.png  used on input line 218.
 (pdftex.def)             Requested size: 469.75502pt x 258.11475pt.
  [6 <./etcher.png>]
-<K3b.png, id=344, 926.71219pt x 642.14906pt>
+<K3b.png, id=329, 926.71219pt x 642.14906pt>
 File: K3b.png Graphic file (type png)
 <use K3b.png>
 Package pdftex.def Info: K3b.png  used on input line 249.
 (pdftex.def)             Requested size: 469.75502pt x 325.5124pt.
-<K3b-1.png, id=345, 496.10344pt x 514.92375pt>
+<K3b-1.png, id=330, 496.10344pt x 514.92375pt>
 File: K3b-1.png Graphic file (type png)
 <use K3b-1.png>
 Package pdftex.def Info: K3b-1.png  used on input line 253.
 (pdftex.def)             Requested size: 469.75502pt x 487.57979pt.
  [7 <./K3b.png>] [8 <./K3b-1.png>]
-<UbuntuGNOMEBrasero.png, id=360, 1927.2pt x 1084.05pt>
+<UbuntuGNOMEBrasero.png, id=345, 1927.2pt x 1084.05pt>
 File: UbuntuGNOMEBrasero.png Graphic file (type png)
 <use UbuntuGNOMEBrasero.png>
 Package pdftex.def Info: UbuntuGNOMEBrasero.png  used on input line 279.
 (pdftex.def)             Requested size: 469.75502pt x 264.22992pt.
-<welcome-slide.png, id=363, 778.99452pt x 590.46127pt>
+<welcome-slide.png, id=348, 778.99452pt x 590.46127pt>
 File: welcome-slide.png Graphic file (type png)
 <use welcome-slide.png>
 Package pdftex.def Info: welcome-slide.png  used on input line 303.
 (pdftex.def)             Requested size: 469.75502pt x 356.07242pt.
  [9 <./UbuntuGNOMEBrasero.png>]
-<prepare.png, id=377, 716.41565pt x 517.00847pt>
+<prepare.png, id=362, 716.41565pt x 517.00847pt>
 File: prepare.png Graphic file (type png)
 <use prepare.png>
 Package pdftex.def Info: prepare.png  used on input line 328.
 (pdftex.def)             Requested size: 469.75502pt x 339.00195pt.
  [10 <./welcome-slide.png>] [11 <./prepare.png>]
-<disksetup-full.png, id=393, 716.41565pt x 517.80264pt>
+<disksetup-full.png, id=378, 716.41565pt x 517.80264pt>
 File: disksetup-full.png Graphic file (type png)
 <use disksetup-full.png>
 Package pdftex.def Info: disksetup-full.png  used on input line 357.
 (pdftex.def)             Requested size: 469.75502pt x 339.5227pt.
-<disksetup-manual.png, id=396, 716.41565pt x 517.00847pt>
+<disksetup-manual.png, id=381, 716.41565pt x 517.00847pt>
 File: disksetup-manual.png Graphic file (type png)
 <use disksetup-manual.png>
 Package pdftex.def Info: disksetup-manual.png  used on input line 376.
 (pdftex.def)             Requested size: 469.75502pt x 339.00195pt.
  [12 <./disksetup-full.png>]
-<timezone.png, id=407, 716.41565pt x 517.00847pt>
+<timezone.png, id=392, 716.41565pt x 517.00847pt>
 File: timezone.png Graphic file (type png)
 <use timezone.png>
 Package pdftex.def Info: timezone.png  used on input line 403.
 (pdftex.def)             Requested size: 469.75502pt x 339.00195pt.
  [13 <./disksetup-manual.png>]
-<keyboard.png, id=414, 716.41565pt x 517.00847pt>
+<keyboard.png, id=399, 716.41565pt x 517.00847pt>
 File: keyboard.png Graphic file (type png)
 <use keyboard.png>
 Package pdftex.def Info: keyboard.png  used on input line 410.
 (pdftex.def)             Requested size: 469.75502pt x 339.00195pt.
  [14 <./timezone.png>]
-<userinfo.png, id=421, 716.41565pt x 517.00847pt>
+<userinfo.png, id=406, 716.41565pt x 517.00847pt>
 File: userinfo.png Graphic file (type png)
 <use userinfo.png>
 Package pdftex.def Info: userinfo.png  used on input line 417.
 (pdftex.def)             Requested size: 469.75502pt x 339.00195pt.
  [15 <./keyboard.png>] [16 <./userinfo.png>]
 Chapter 3.
-<driver-manager.png, id=434, 629.17412pt x 323.79794pt>
+<driver-manager.png, id=419, 629.17412pt x 323.79794pt>
 File: driver-manager.png Graphic file (type png)
 <use driver-manager.png>
 Package pdftex.def Info: driver-manager.png  used on input line 426.
@@ -954,43 +935,43 @@ Package pdftex.def Info: driver-manager.png  used on input line 426.
 
 ]
 Chapter 4.
-<Kickoff.png, id=445, 383.3144pt x 496.67912pt>
+<Kickoff.png, id=430, 383.3144pt x 496.67912pt>
 File: Kickoff.png Graphic file (type png)
 <use Kickoff.png>
 Package pdftex.def Info: Kickoff.png  used on input line 2.
 (pdftex.def)             Requested size: 287.48509pt x 372.50842pt.
 [19 <./Kickoff.png (PNG copy)>]
-<ApplicationDash.png, id=452, 1360.37646pt x 765.21176pt>
+<ApplicationDash.png, id=437, 1360.37646pt x 765.21176pt>
 File: ApplicationDash.png Graphic file (type png)
 <use ApplicationDash.png>
 Package pdftex.def Info: ApplicationDash.png  used on input line 446.
 (pdftex.def)             Requested size: 680.18657pt x 382.60495pt.
-<KRunner.png, id=454, 424.40912pt x 37.55206pt>
+<KRunner.png, id=439, 424.40912pt x 37.55206pt>
 File: KRunner.png Graphic file (type png)
 <use KRunner.png>
 Package pdftex.def Info: KRunner.png  used on input line 2.
 (pdftex.def)             Requested size: 424.40807pt x 37.55196pt.
-<Network-Panel.png, id=456, 350.72206pt x 308.2103pt>
+<Network-Panel.png, id=441, 350.72206pt x 308.2103pt>
 File: Network-Panel.png Graphic file (type png)
 <use Network-Panel.png>
 Package pdftex.def Info: Network-Panel.png  used on input line 458.
 (pdftex.def)             Requested size: 263.0409pt x 231.15715pt.
  [20 <./ApplicationDash.png (PNG copy)> <./KRunner.png (PNG copy)>] [21 <./Netw
 ork-Panel.png (PNG copy)>]
-<Panels.png, id=475, 291.91412pt x 432.91147pt>
+<Panels.png, id=459, 291.91412pt x 432.91147pt>
 File: Panels.png Graphic file (type png)
 <use Panels.png>
 Package pdftex.def Info: Panels.png  used on input line 490.
 (pdftex.def)             Requested size: 218.93504pt x 324.6828pt.
  [22 <./Panels.png (PNG copy)>]
-<Activities.png, id=484, 1360.37646pt x 765.21176pt>
+<Activities.png, id=469, 1360.37646pt x 765.21176pt>
 File: Activities.png Graphic file (type png)
 <use Activities.png>
 Package pdftex.def Info: Activities.png  used on input line 508.
 (pdftex.def)             Requested size: 408.11609pt x 229.56529pt.
  [23 <./Activities.png (PNG copy)>] [24]
 Chapter 5.
-<discover-homepage.png, id=502, 1120.9378pt x 709.90219pt>
+<discover-homepage.png, id=487, 1120.9378pt x 709.90219pt>
 File: discover-homepage.png Graphic file (type png)
 <use discover-homepage.png>
 Package pdftex.def Info: discover-homepage.png  used on input line 566.
@@ -1001,113 +982,89 @@ Package pdftex.def Info: discover-homepage.png  used on input line 566.
 
 ]
 Chapter 6.
-<discover-repositories.png, id=535, 1120.9378pt x 709.90219pt>
-File: discover-repositories.png Graphic file (type png)
-<use discover-repositories.png>
-Package pdftex.def Info: discover-repositories.png  used on input line 663.
-(pdftex.def)             Requested size: 560.46753pt x 354.95023pt.
-<discover-software-sources.png, id=536, 553.31718pt x 405.76593pt>
-File: discover-software-sources.png Graphic file (type png)
-<use discover-software-sources.png>
-Package pdftex.def Info: discover-software-sources.png  used on input line 665.
-
-(pdftex.def)             Requested size: 469.75502pt x 344.48784pt.
-[29 <./discover-repositories.png>]
-<software-sources-add.png, id=543, 462.22687pt x 240.14719pt>
+<discover-repositories-cc.png, id=520, 1115.66812pt x 622.8631pt>
+File: discover-repositories-cc.png Graphic file (type png)
+<use discover-repositories-cc.png>
+Package pdftex.def Info: discover-repositories-cc.png  used on input line 663.
+(pdftex.def)             Requested size: 557.8327pt x 311.43079pt.
+<discover-software-sources-cc.png, id=521, 553.31718pt x 401.58278pt>
+File: discover-software-sources-cc.png Graphic file (type png)
+<use discover-software-sources-cc.png>
+Package pdftex.def Info: discover-software-sources-cc.png  used on input line 6
+65.
+(pdftex.def)             Requested size: 469.75502pt x 340.93642pt.
+[29 <./discover-repositories-cc.png>]
+<software-sources-add.png, id=528, 462.22687pt x 240.14719pt>
 File: software-sources-add.png Graphic file (type png)
 <use software-sources-add.png>
 Package pdftex.def Info: software-sources-add.png  used on input line 667.
 (pdftex.def)             Requested size: 462.22574pt x 240.14658pt.
- [30 <./discover-software-sources.png> <./software-sources-add.png>] [31] [32]
+ [30 <./discover-software-sources-cc.png> <./software-sources-add.png>] [31] [3
+2]
 Chapter 7.
 [33
 
 ] [34] [35] [36]
 Chapter 8.
-
-Underfull \hbox (badness 10000) in paragraph at lines 958--960
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
-[]\T1/phv/m/n/10 Ap-pIm-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
-[]\T1/ptm/m/n/10 Yes (some
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
-[]\T1/ptm/m/n/10 No (flat-pak No
- []
-
 [37
 
-] [38
+] [38] [39] [40
 
 ]
 Chapter 9.
-[39] [40] [41] [42
+[41] [42
 
 ]
 Chapter 10.
-[43] [44
+[43] [44]
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 1219.
+ [45] [46] [47] [48
 
 ]
 Chapter 11.
-[45] [46]
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 1360.
- [47] [48] [49] [50
-
-]
-Chapter 12.
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 1598--1599
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
 []\T1/ptm/m/n/10 changed ^^Pdeb [][]$http : / / ppa . launchpad . net / kubuntu
 -[]ppa / backports / ubuntu$[][] vivid main^^Q to ^^Pppa:kubuntu-
  []
 
-[52]
-Chapter 13.
+[50]
+Chapter 12.
 (./KubuntuManual.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1647.
- [53
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1506.
+ [51
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1647.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1506.
  (./KubuntuManual.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1647.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1647.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1506.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1506.
 
 Package rerunfilecheck Info: File `KubuntuManual.out' has not changed.
-(rerunfilecheck)             Checksum: F89C84F2A36445138693D79585CF0D41;6568.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1647.
+(rerunfilecheck)             Checksum: 27113E91EDA84AC3CD2B519B156F54F7;6173.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1506.
  ) 
 Here is how much of TeX's memory you used:
- 13819 strings out of 492645
- 196281 string characters out of 6131956
- 296223 words of memory out of 5000000
- 17182 multiletter control sequences out of 15000+600000
- 56046 words of font info for 73 fonts, out of 8000000 for 9000
+ 13776 strings out of 492641
+ 195705 string characters out of 6131786
+ 296139 words of memory out of 5000000
+ 17150 multiletter control sequences out of 15000+600000
+ 54892 words of font info for 72 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,12n,51p,888b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,12n,51p,888b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
-uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/times/utmri8a.pfb>
-Output written on KubuntuManual.pdf (57 pages, 6575614 bytes).
+uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on KubuntuManual.pdf (55 pages, 6658900 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 724 compressed objects within 8 object streams
- 202 named destinations out of 1000 (max. 500000)
- 552 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 819 PDF objects out of 1000 (max. 8388607)
+ 702 compressed objects within 8 object streams
+ 197 named destinations out of 1000 (max. 500000)
+ 528 words of extra memory for PDF output out of 10000 (max. 10000000)
 
