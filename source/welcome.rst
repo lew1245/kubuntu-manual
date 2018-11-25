@@ -48,4 +48,4 @@ The entire *Kubuntu* team thanks you for choosing *Kubuntu!*
 :Authors: 
     Kubuntu Team
 
-:Version: 18.10 ; Released: 10/18/18
+:Version: 19.04 ; Released: ETA
