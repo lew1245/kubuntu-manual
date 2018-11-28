@@ -8,7 +8,7 @@ Welcome to *Kubuntu*
 *Kubuntu* is a user-friendly Linux-based operating system that use the *KDE* *Plasma Desktop*. With a predictable 
 six-month release cycle as part of the *Ubuntu* project, *Kubuntu* is the Linux distribution for everyone.
 
-*Kubuntu* includes more than 1,000 default packages (applications or utilities) and has access to more than 64,000 other packages to suit your needs. *Kubuntu* is based on the Linux kernel and includes the core *Ubuntu* applications as well as *KDE* software. *Kubuntu*'s core applications include software for the most common needs, like:
+*Kubuntu* includes more than 1,000 default packages (depending if full installation or minimal installation was choosen) and has access to more than 64,000 other packages to suit your needs. *Kubuntu* is based on the Linux kernel and includes the core *Ubuntu* applications as well as *KDE* software. *Kubuntu*'s core applications include software for the most common needs, like:
 
 * Browsing the web.
 * Personal Information Manager which includes email.
