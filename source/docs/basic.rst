@@ -8,15 +8,15 @@ These components are available within Kubuntu to meet your desired functionality
 Launchers
 ----------
 
-KickOff
-~~~~~~~~~~
+KickOff (Default)
+~~~~~~~~~~~~~~~~~
 
 .. image:: ../images/bionic/Kickoff.png
     :scale: 75 %
     :align: center
     :target: https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff
 
-As a *KDE* distribution, Kubuntu uses the Kickoff Application Launcher by default. The Kickoff Launcher can be compared with the 'Start Menu' in Windows (pre Windows 8). The icon to launch Kickoff is on the bottom left very much like Windows XP or 7. For more information on how to use and customize it, see `Plasma Kickoff <https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff>`_.
+The Kickoff Launcher can be compared with the 'Start Menu' in Windows (pre Windows 8). The icon to launch Kickoff is on the bottom left very much like Windows XP or 7. For more information on how to use and customize it, see `Plasma Kickoff <https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff>`_.
 
 Application Dashboard
 ~~~~~~~~~~~~~~~~~~~~~~
