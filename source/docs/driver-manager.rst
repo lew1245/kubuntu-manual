@@ -3,7 +3,7 @@
 Installing NVIDIA Drivers
 ==========================
 
-Kubuntu comes with an application called Driver Manager that handles installing the non-free NVIDIA driver for your hardware.
+Kubuntu uses Driver Manager to handle installing the non-free drivers for example NVIDIA GPUs.
 
 To launch Driver Manager either use KickOff or KRunner to search for it's name and then left click on it.
 
