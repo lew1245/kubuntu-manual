@@ -84,9 +84,9 @@ Activities
 
 Think for a moment about your average day working on your PC. It will often traverse different activities. For example doing email and researching things on the internet, perhaps developing some documents, working on a piece of software, writing your thesis in LaTeX etc...
 
-Commonly KDE users might use Virtual desktops to separate these workspaces.
+Other desktop environments use Virtual desktops to separate these temporary activities.
 
-KDE Activities in Kubuntu provide a slick way to setup and configure environments specific to your task routines. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
+KDE Activities provide a slick way to setup and configure environments specific to your tasks. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
 
 Activities first look
 ~~~~~~~~~~~~~~~~~~~~~
@@ -95,12 +95,7 @@ Activities first look
    :align: center
    :scale: 30 %
 
-Let's take a look at the default KDE Activities configured in Kubuntu. Right Click anywhere on the empty desktop and choose "Activities" from the menu. The Activities side bar appears on the left, with the Default activity. Notice the + Create Activity at the bottom. Click that, and lets created a new "Social" Activity.
-Enter "Social" as the Activity name: and then click Create.
-
-That's it you have created your first activity.
-
-You can theme, and configured this new activity desktop in the same ways as mentioned early in this section of the manual.
+Right Click anywhere on the empty desktop and choose "Activities" from the menu. The Activities side bar appears on the left, with the Default activity. Click the (+) to create an Activity and lets create a new "Social" Activity. Enter "Social" as the Activity name and then click Create. You can theme, and configured this new activity desktop in the same ways as mentioned early in this section of the manual.
 
 A Step Further
 ~~~~~~~~~~~~~~
@@ -123,6 +118,6 @@ Dolphin is the default file manager in Kubuntu and can be compared with Windows 
 Updating
 ---------
 
-Kubuntu developers release feature and security updates for applications and packages within the Kubuntu system. When updates become available, Kubuntu will display a message in the System Tray. To update the system, open Discover from either the Application Menu or Krunner and click the Update button (usually yellow/orange when there are updates). After installing some updates, it may be necessary to restart the computer. If so, Kubuntu will display a pop-up and an icon in the System Tray.
+Kubuntu developers release feature and security updates for applications and packages within the Kubuntu system. When updates become available, Kubuntu will display a message in the System Tray. To manually update the system, open Discover from either the Application Menu or Krunner and click the Update button. After installing some updates, it may be necessary to restart the computer, if so Kubuntu will display a pop-up and an icon in the System Tray.
 
 `Basic`_
