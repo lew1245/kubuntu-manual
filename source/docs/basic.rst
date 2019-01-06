@@ -82,13 +82,13 @@ By right-clicking on the desktop once again, you can select Add Panel to get mor
 Activities
 ~~~~~~~~~~
 
-Activites are specific and exclusive to KDE. As such they're often under utilised and misunderstood. In this section we're going to explore what KDE Activities are, how to set them up, and how to use them.
+Activities are specific and exclusive to KDE. As such they're often under utilized and misunderstood. In this section we're going to explore what KDE Activities are, how to set them up, and how to use them.
 
 Think for a moment about your average day working on your PC. It will often traverse different activities. For example doing email and researching things on the internet, perhaps developing some documents, working on a piece of software, writing your thesis in LaTeX etc...
 
-Commonly KDE users might use Virtual desktops to seperate these workspaces.
+Commonly KDE users might use Virtual desktops to separate these workspaces.
 
-KDE Activites in Kubuntu provide a slick way to setup and configure environments specific to your task routines. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
+KDE Activities in Kubuntu provide a slick way to setup and configure environments specific to your task routines. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
 
 Activities first look
 ~~~~~~~~~~~~~~~~~~~~~
