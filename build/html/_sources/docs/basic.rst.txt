@@ -3,20 +3,20 @@
 Basic
 ======
 
-This section of the Documentation will cover the components available within Kubuntu to meet your desired functionality and make Kubuntu your own.
+These components are available within Kubuntu to meet your desired functionality and make Kubuntu your own.
 
 Launchers
 ----------
 
-KickOff
-~~~~~~~~~~
+KickOff (Default)
+~~~~~~~~~~~~~~~~~
 
 .. image:: ../images/bionic/Kickoff.png
     :scale: 75 %
     :align: center
     :target: https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff
-  
-As a *KDE* distribution, Kubuntu uses the Kickoff Application Launcher by default. The Kickoff Launcher can be compared with the 'Start Menu' in Windows (pre Windows 8). The icon to launch Kickoff is on the bottom left very much like Windows XP or 7. For more information on how to use and customize it, see `Plasma Kickoff <https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff>`_.
+
+The Kickoff Launcher can be compared with the 'Start Menu' in Windows (pre Windows 8). The icon to launch Kickoff is on the bottom left very much like Windows XP or 7. For more information on how to use and customize it, see `Plasma Kickoff <https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff>`_.
 
 Application Dashboard
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -25,8 +25,8 @@ Application Dashboard
     :scale: 50 %
     :align: center
 
-Taken from the old Plasma Netbook interface we have the Application Dashboard menu for users with smaller screens ie. Netbooks or small laptops. 
-    
+Taken from the old Plasma Netbook interface we have the Application Dashboard menu for users with smaller screens such as Netbooks or small laptops.
+
 KRunner
 ~~~~~~~~
 
@@ -34,7 +34,7 @@ KRunner
    :align: center
    :target: https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner
 
-Like Kickoff, KRunner is a launcher, but it does a lot more than just launching applications. Usually KRunner is accessed by pressing Alt + Space. For more information on what it can do, see `Plasma Krunner <https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner>`_.
+Like Kickoff, KRunner is a launcher, but it does a lot more than just launching applications. KRunner can be accessed by pressing Alt + Space. For more information on what it can do, see `Plasma Krunner <https://userbase.kde.org/Special:MyLanguage/Plasma/Krunner>`_.
 
 Networking
 -----------
@@ -58,37 +58,37 @@ Deskop Customization
 
 This section covers the basics of configuring Kubuntu to suit your needs. One of the strengths of the *KDE* philosophy is the focus on control of just about every aspect of the desktop environment. Wallpapers, themes, widgets, color schemes, splash screens, and more; the options for customization are endless.
 
-KDE-Look is the number one location to find customized settings for the *KDE* Plasma desktop. Some of the applications even allow direct connections to KDE-Look to download a new configuration or image. 
+`KDE Store <https://store.kde.org/>`_ is the number one location to find customized settings for the *KDE* Plasma desktop. Some of the applications even allow direct connections to `KDE Store <https://store.kde.org/>`_ to download a new configuration or image.
 
 Themes
 ~~~~~~~
 
-Kubuntu allows themes to be changed easily. To change your theme go to System Settings -> Workspace Theme in the Desktop Theme section, then choose from the list of installed themes. You can change the theme of the Desktop Theme, Cursor Theme, and the Splash Screen. Pick from the default choices that are installed, or left-click the 'Get New...' button in each section for more choices. 
+Kubuntu allows themes to be changed easily. To change your theme go to 'System Settings' -> Workspace Theme in the Desktop Theme section, then choose from the list of installed themes. You can change the theme of the Desktop Theme, Cursor Theme, and the Splash Screen. Pick from the default choices that are installed, or left-click the 'Get New...' button in each section for more choices.
 
 Plasmoids
 ~~~~~~~~~~
 
-Plasmoids (also called Widgets) can be added by right-clicking the desktop and selecting Add Widgets..., which will bring up a list of Widgets. For more information, see `Plasma Widgets <https://userbase.kde.org/Special:MyLanguage/Plasma#Widgets>`_. 
+Plasmoids (also called Widgets) can be added by right-clicking the desktop and selecting Add Widgets..., which will bring up a list of Widgets. For more information, see `Plasma Widgets <https://userbase.kde.org/Special:MyLanguage/Plasma#Widgets>`_.
 
-Panel 
+Panel
 ~~~~~~
 
 .. image:: ../images/bionic/Panels.png
     :align: left
     :scale: 75 %
 
-By right-clicking on the desktop once again, you can select Add Panel to get more panels. You can left-click the button on the far right side of the panel to alter the properties of the panel, like changing its height or width or adding Widgets, for example. For more information, see `Plasma Panels <https://userbase.kde.org/Special:MyLanguage/Plasma#Panels>`_. 
+By right-clicking on the desktop once again, you can select Add Panel to get more panels. You can left-click the button on the far right side of the panel to alter the properties of the panel, like changing its height or width or adding Widgets, for example. For more information, see `Plasma Panels <https://userbase.kde.org/Special:MyLanguage/Plasma#Panels>`_.
 
 Activities
 ~~~~~~~~~~
 
-Activites are specific and exclusive to KDE. As such they're often under utilised and misunderstood. In this section we're going to explore what KDE Activities are, how to set them up, and how to use them.
+Activities are specific and exclusive to KDE. As such they're often under utilized and misunderstood. In this section we're going to explore what KDE Activities are, how to set them up, and how to use them.
 
 Think for a moment about your average day working on your PC. It will often traverse different activities. For example doing email and researching things on the internet, perhaps developing some documents, working on a piece of software, writing your thesis in LaTeX etc...
 
-Commonly KDE users might use Virtual desktops to seperate these workspaces.
+Commonly KDE users might use Virtual desktops to separate these workspaces.
 
-KDE Activites in Kubuntu provide a slick way to setup and configure environments specific to your task routines. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
+KDE Activities in Kubuntu provide a slick way to setup and configure environments specific to your task routines. For example your might want to have your email, and social networks configured as one activity. Perhaps your research, and writing for your thesis configured as another activity.
 
 Activities first look
 ~~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +96,7 @@ Activities first look
 .. image:: ../images/bionic/Activities.png
    :align: center
    :scale: 30 %
-   
+
 Let's take a look at the default KDE Activities configured in Kubuntu. Right Click anywhere on the empty desktop and choose "Activities" from the menu. The Activities side bar appears on the left, with the Default activity. Notice the + Create Activity at the bottom. Click that, and lets created a new "Social" Activity.
 Enter "Social" as the Activity name: and then click Create.
 
@@ -120,11 +120,11 @@ OK, lets configure a few useful tools
 Dolphin
 ````````
 
-Dolphin is the default file manager in Kubuntu and can be compared with Windows Explorer. Dolphin looks simple because of great design, while having many powerful features. For more information, see `Dolphin <https://userbase.kde.org/Special:MyLanguage/Dolphin>`_. 
+Dolphin is the default file manager in Kubuntu and can be compared with Windows Explorer. Dolphin looks simple because of great design, while having many powerful features. For more information, see `Dolphin <https://userbase.kde.org/Special:MyLanguage/Dolphin>`_.
 
 Updating
 ---------
 
-Kubuntu developers release feature and security updates for applications and packages within the Kubuntu system. When updates become available, Kubuntu will display a message in the System Tray. To update the system, open Discover from either the Application Menu or Krunner and click the Update button (usually yellow/orange when there are updates). After installing some updates, it may be necessary to restart the computer. If so, Kubuntu will display a pop-up and an icon in the System Tray. 
+Kubuntu developers release feature and security updates for applications and packages within the Kubuntu system. When updates become available, Kubuntu will display a message in the System Tray. To update the system, open Discover from either the Application Menu or Krunner and click the Update button (usually yellow/orange when there are updates). After installing some updates, it may be necessary to restart the computer. If so, Kubuntu will display a pop-up and an icon in the System Tray.
 
 `Basic`_
