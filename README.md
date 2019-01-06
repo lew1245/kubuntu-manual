@@ -1,13 +1,17 @@
 Kubuntu Manual
 ===============
 
-Licensed under CC-BY-SA 4.0 
+Licensed under CC-BY-SA 4.0
 Following this: https://community.kde.org/Policies/Licensing_Policy
 
 ![](https://travis-ci.org/kubuntu-team/kubuntu-manual.svg?branch=master)
 
 - Kubuntu 19.04 Status : Open for MR(s)
 - Kubuntu 19.04 Release: TBA
+
+To-Dp
+
+[ ] Update screenshot on welcome to 19.04
 
 ## How it works
 
@@ -26,7 +30,7 @@ Fish:
 ```
 sudo apt install python3-sphinx python3-pip texlive-full; and pip3 install sphinx_bootstrap_theme
 ```
-                                                                                                           
+
 You can see the options for building the documentation by running `make help`.                             
 
 ## How translations work
@@ -54,10 +58,10 @@ make epub -- to produce a epub file in build/epub
 ```
 
 We are aware that the images in the epub are pixely and looking for a fix
-                                                                                                           
+
 ## Contributing                                                                                            
-                                                                                                           
-To contribute to the Kubuntu Manual, you can either create a pull request on GitHub, or send patch mail to 
+
+To contribute to the Kubuntu Manual, you can either create a pull request on GitHub, or send patch mail to
 [kubuntu-devel@lists.ubuntu.com](mailto:kubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Kubuntu Manual Pull Request]`.                
 
 We take simple fixes like grammar, spelling, translations, and new pages!
